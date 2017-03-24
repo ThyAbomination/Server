@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="xstream">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/deps/xstream.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/slf4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/slf4j-nop.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/RuneTopListV2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/RuneTopListSDK_3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/poi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/mysql.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/mina.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/GTLVote.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/gson-2.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/collisionmap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/castlewars.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/Castle Wars.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/AllGoFreePortForwarding.jar!/" />
+      <root url="jar://$PROJECT_DIR$/deps/jython.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/deps/jython.jar!/Lib" />
+    </SOURCES>
+  </library>
+</component>
